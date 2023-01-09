@@ -1,3 +1,5 @@
+#このツールはWindowsOSの脆弱性を根本的に悪用します。GTA5を経由してモッダーのメールアドレスにマルウェアを送信します#
+
 Step 1 Open GTA5
 Step 2 Enter online session
 Step 3 Activate the tool
