@@ -1,4 +1,4 @@
-
+#This tool fundamentally exploits a vulnerability in the Windows OS, sending malware to modders' email addresses via GTA5#
 
 Step 1 Open GTA5
 Step 2 Enter online session
