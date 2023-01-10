@@ -12,6 +12,8 @@
 
 
 
+****Two years ago one modder was bullying a poor noob and I published his rockstar account email address, password, and home location in our session chat.
+He lives in New Zealand****
 
 
 
